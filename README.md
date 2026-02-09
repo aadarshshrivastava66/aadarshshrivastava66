@@ -20,17 +20,9 @@ I'm dedicated to crafting robust, efficient, and impactful software solutions. W
 
 ## ⭐ Featured Repositories
 
-<a href="https://github.com/aadarshshrivastava66/Finexa">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshshrivastava66&repo=Finexa&theme=dark" />
-</a>
-
-<a href="https://github.com/aadarshshrivastava66/Nyaya-mitra">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshshrivastava66&repo=Nyaya-mitra&theme=dark" />
-</a>
-
-<a href="https://github.com/aadarshshrivastava66/Session-Auth">
-  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshshrivastava66&repo=Session-Auth&theme=dark" />
-</a>
+| | | |
+|---|---|---|
+| **[Finexa](https://github.com/aadarshshrivastava66/Finexa)** <br/> 🟡 JavaScript <br/> Public | **[Nyaya-mitra](https://github.com/Abhinavbhadauriya/Nyaya-Mitra)** <br/> 🟡 JavaScript <br/> Public | **[Session-Auth](https://github.com/aadarshshrivastava66/Session-Auth)** <br/> 🟡 JavaScript <br/> Public |
 
 ---
 
@@ -89,13 +81,3 @@ I'm dedicated to crafting robust, efficient, and impactful software solutions. W
 ## 🔝 Top Contributions
 
 ![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=aadarshshrivastava66&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-
-<div align="center">
-
-[![Visit Count](https://visitcount.itsvg.in/api?id=aadarshshrivastava66&icon=0&color=0)](https://visitcount.itsvg.in)
-
-**Made with ❤️ by Aadarsh Shrivastava**
-
-</div>
