@@ -18,6 +18,22 @@ I'm dedicated to crafting robust, efficient, and impactful software solutions. W
 
 ---
 
+## ⭐ Featured Repositories
+
+<a href="https://github.com/aadarshshrivastava66/Finexa">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshshrivastava66&repo=Finexa&theme=dark" />
+</a>
+
+<a href="https://github.com/aadarshshrivastava66/Nyaya-mitra">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshshrivastava66&repo=Nyaya-mitra&theme=dark" />
+</a>
+
+<a href="https://github.com/aadarshshrivastava66/Session-Auth">
+  <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=aadarshshrivastava66&repo=Session-Auth&theme=dark" />
+</a>
+
+---
+
 ## 🌐 Let's Connect
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aadarsh_shrivastava_03) 
