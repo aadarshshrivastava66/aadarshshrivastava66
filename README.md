@@ -66,8 +66,6 @@ I'm dedicated to crafting robust, efficient, and impactful software solutions. W
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aadarshshrivastava66&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshshrivastava66&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
 ---
 
 ## 🏆 Achievements
@@ -75,7 +73,3 @@ I'm dedicated to crafting robust, efficient, and impactful software solutions. W
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=aadarshshrivastava66&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-
-## 🔝 Top Contributions
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=aadarshshrivastava66&limit=5&theme=dark&combine_all_yearly_contributions=true)
