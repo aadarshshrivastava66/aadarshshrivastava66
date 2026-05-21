@@ -8,7 +8,7 @@
 
 <p>
   <b>Building scalable web apps · Solving complex problems · Open to opportunities</b><br/>
-  <sub>📍 Bhopal, India</sub>
+  <sub>📍 Indore, India</sub>
 </p>
 
 <!-- Connect Badges -->
@@ -23,23 +23,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/aadarshshrivastava66?style=flat-square&color=3fb950&label=Followers)
 
 </div>
-
----
-
-## 🧑‍💻 About Me
-
-```javascript
-const aadarsh = {
-  role:       "MERN Stack Developer",
-  location:   "Bhopal, Madhya Pradesh 🇮🇳",
-  focus:      ["Full Stack Development", "DSA & Problem Solving"],
-  languages:  ["JavaScript", "C++", "Python"],
-  stack:      ["React", "Node.js", "Express.js", "MongoDB"],
-  hobbies:    ["Coding", "Building Projects", "Learning New Tech"],
-  status:     "🟢 Open to internships & full-time roles",
-  funFact:    "I debug with console.log and I'm not ashamed 😄"
-};
-```
 
 ---
 
@@ -182,7 +165,7 @@ const aadarsh = {
 
 ---
 
-## 🎯 2025 Goals
+## 🎯 2026 Goals
 
 - [x] 🔧 Build full-stack MERN projects
 - [x] 🔐 Implement authentication systems
