@@ -16,12 +16,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/aadarsh_shrivastava_03)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aadarshshrivastava66@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aadarshshrivastava66)
-
-<br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=aadarshshrivastava66&style=flat-square&color=388bfd&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/aadarshshrivastava66?style=flat-square&color=3fb950&label=Followers)
-
 </div>
 
 ---
