@@ -4,7 +4,7 @@
 <div align="center">
 
 <!-- Animated Title -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=1000&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aadarsh+Shrivastava;MERN+Stack+Developer;DSA+Enthusiast;Always+Learning+%E2%9C%A8)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=28&pause=800&color=E6EDF3&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Aadarsh+Shrivastava;MERN+Stack+Developer;DSA+Enthusiast;Always+Learning+%E2%9C%A8)](https://git.io/typing-svg)
 
 <p>
   <b>Building scalable web apps · Solving complex problems · Open to opportunities</b><br/>
