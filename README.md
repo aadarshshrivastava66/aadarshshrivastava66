@@ -133,11 +133,10 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=aadarshshrivastava66&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&bg_color=0d1117&title_color=388bfd&text_color=e6edf3&icon_color=3fb950" />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aadarshshrivastava66&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aadarshshrivastava66&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact&bg_color=0d1117&title_color=388bfd&text_color=e6edf3" />
+![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=aadarshshrivastava66&theme=dark&hide_border=false)
 
-<img width="90%" src="https://nirzak-streak-stats.vercel.app/?user=aadarshshrivastava66&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=388bfd&ring=388bfd&fire=3fb950&currStreakLabel=e6edf3&sideLabels=8b949e&dates=8b949e" />
 
 </div>
 
