@@ -155,19 +155,6 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=aadarshshrivastava66&bg_color=0d1117&color=388bfd&line=3fb950&point=e6edf3&area=true&hide_border=true" />
 </div>
 
----
-
-## 🎯 2026 Goals
-
-- [x] 🔧 Build full-stack MERN projects
-- [x] 🔐 Implement authentication systems
-- [ ] 📦 Contribute to open source
-- [ ] ☁️ Learn cloud deployment (AWS / Vercel / Railway)
-- [ ] 🧩 Deep dive into System Design
-- [ ] 🚀 Land a developer role / internship
-
----
-
 <div align="center">
 
 ### 💬 Let's Talk
